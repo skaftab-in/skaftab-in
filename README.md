@@ -11,7 +11,7 @@ I am a results-driven software developer passionate about crafting robust soluti
 <!-- Animated Servers Showcase Section -->
 ## 🚀 Proficient in All Major Linux Distributions
 
-![CentOS](https://img.icons8.com/?size=98&id=_blXzVtROzHQ&format=png) ![Red Hat](https://img.icons8.com/?size=98&id=ZbBhBW0N2q3D&format=png) ![Ubuntu](https://img.icons8.com/?size=98&id=63208&format=png) ![Fedora](https://img.icons8.com/?size=98&id=101665&format=png) ![Debian](https://img.icons8.com/?size=98&id=17838&format=png) ![Arch Linux](https://img.icons8.com/?size=98&id=13443&format=png)
+![CentOS](https://img.icons8.com/?size=50&id=_blXzVtROzHQ&format=png) ![Red Hat](https://img.icons8.com/?size=50&id=ZbBhBW0N2q3D&format=png) ![Ubuntu](https://img.icons8.com/?size=50&id=63208&format=png) ![Fedora](https://img.icons8.com/?size=50&id=101665&format=png) ![Debian](https://img.icons8.com/?size=50&id=17838&format=png) ![Arch Linux](https://img.icons8.com/?size=50&id=13443&format=png)
 
 <!-- Linux and DevOps Skills Section -->
 ## 💻 Linux and DevOps Skills
@@ -47,8 +47,8 @@ I am a results-driven software developer passionate about crafting robust soluti
 <!-- Contact Section -->
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.icons8.com/?size=48&id=13930&format=png)](http://www.linkedin.com/in/sk-aftab-428b15259)
-[![Instagram](https://img.icons8.com/?size=48&id=32323&format=png)](https://www.instagram.com/skaftab.in?igsh=cnp0dGZyNzMxOHhh)
+[![LinkedIn](https://img.icons8.com/?size=38&id=13930&format=png)](http://www.linkedin.com/in/sk-aftab-428b15259)
+[![Instagram](https://img.icons8.com/?size=38&id=32323&format=png)](https://www.instagram.com/skaftab.in?igsh=cnp0dGZyNzMxOHhh)
 
 
 
