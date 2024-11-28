@@ -1,12 +1,14 @@
-
 <!-- Gif Section (moved to the right) -->
-## Hello there! 👋 I'm SkAftab<!-- Gif Section with Floating Image -->
-
-
-
+## Hello there! 👋 I'm SkAftab
 
 <!-- About Me Section -->
 I am a results-driven software developer passionate about crafting robust solutions. My expertise lies in Linux administration, DevOps practices, and building scalable applications.
+
+<!-- Certifications Section -->
+## 🏆 Certifications
+
+### AWS Certified Solutions Architect – Associate  
+![AWS Certified Badge](https://images.credly.com/size/240x240/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 <!-- Animated Servers Showcase Section -->
 ## 🚀 Proficient in All Major Linux Distributions
@@ -48,32 +50,16 @@ I am a results-driven software developer passionate about crafting robust soluti
 ![mySQL Logo](https://img.icons8.com/?size=38&id=UFXRpPFebwa2&format=png)
 ![SQL Logo](https://img.icons8.com/?size=38&id=ldAV1F3sx1VI&format=png)
 
-
-
-
-
-
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=skaftab-in&show_icons=true&theme=radical)
-
-
-
-
-<!-- Gif Section -->
-
 
 <!-- Contact Section -->
 ## 🌐 Let's Connect!
 
 [![LinkedIn](https://img.icons8.com/?size=38&id=13930&format=png)](http://www.linkedin.com/in/sk-aftab-428b15259)
 [![Instagram](https://img.icons8.com/?size=38&id=32323&format=png)](https://www.instagram.com/skaftab.in?igsh=cnp0dGZyNzMxOHhh)
-
-
-
-
-
 
 <!-- Footer Section -->
 <details>
@@ -88,3 +74,4 @@ I am a results-driven software developer passionate about crafting robust soluti
   - 🌱 I believe in lifelong learning.
   - 🎸 I enjoy playing the VideoGame during my free time.
 </details>
+
