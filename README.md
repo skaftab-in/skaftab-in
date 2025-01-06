@@ -2,7 +2,7 @@
 ## Hello there! 👋 I'm SkAftab
 
 <!-- About Me Section -->
-I am a results-driven software developer passionate about crafting robust solutions. My expertise lies in Linux administration, DevOps practices, and building scalable applications.
+I’m passionate about creating scalable solutions with cloud technologies and DevOps practices. With a strong Linux background, I’m focusing on cloud infrastructure, automation, and containerization. Check out my GitHub to see my projects in cloud and DevOps.
 
 <!-- Certifications Section -->
 ## 🏆 Certifications
