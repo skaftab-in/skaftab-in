@@ -50,6 +50,22 @@ I’m passionate about creating scalable solutions with cloud technologies and D
 ![mySQL Logo](https://img.icons8.com/?size=38&id=UFXRpPFebwa2&format=png)
 ![SQL Logo](https://img.icons8.com/?size=38&id=ldAV1F3sx1VI&format=png)
 
+<!-- Project Section -->
+## 📂 Featured Projects
+
+### 🌟 **[CI/CD Pipeline with AWS EKS,AWS ECR,Github and Jenkins](https://github.com/skaftab-in/aws-cicd-pipeline-eks-ecr.git)**
+- **Description:** Automated pipeline using Jenkins, AWS EKS, and Docker to build, test, and deploy applications on Kubernetes.
+- **Technologies:** Jenkins, Docker, AWS EKS, Node.js
+
+### 🌟 **[Linux Security Audit and Hardening Script](https://github.com/skaftab-in/linux-security-audit.git)**
+- **Description:** A comprehensive Bash script for auditing and hardening Linux servers, ensuring best security practices.
+- **Technologies:** Bash, Linux Security Tools
+
+
+
+
+> 💡 *More projects coming soon!*
+
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
@@ -74,4 +90,3 @@ I’m passionate about creating scalable solutions with cloud technologies and D
   - 🌱 I believe in lifelong learning.
   - 🎸 I enjoy playing the VideoGame during my free time.
 </details>
-
