@@ -74,7 +74,7 @@ I’m passionate about creating scalable solutions with cloud technologies and D
 <!-- Contact Section -->
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.icons8.com/?size=38&id=13930&format=png)](http://www.linkedin.com/in/sk-aftab-428b15259)
+[![LinkedIn](https://img.icons8.com/?size=38&id=13930&format=png)](https://www.linkedin.com/in/mohammed-aftab-428b15259/)
 [![Instagram](https://img.icons8.com/?size=38&id=32323&format=png)](https://www.instagram.com/skaftab.in?igsh=cnp0dGZyNzMxOHhh)
 
 <!-- Footer Section -->
