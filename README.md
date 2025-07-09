@@ -1,14 +1,20 @@
 <!-- Gif Section (moved to the right) -->
-## Hello there! 👋 I'm SkAftab
-
+## Hello there! 👋 I'm Aftab
 <!-- About Me Section -->
-I’m passionate about creating scalable solutions with cloud technologies and DevOps practices. With a strong Linux background, I’m focusing on cloud infrastructure, automation, and containerization. Check out my GitHub to see my projects in cloud and DevOps.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mohammed+Aftab;Experienced+DevOps+and+Cloud+Engineer;AWS+Certified+Solutions+Architect+Associate;GCP+Certified+Associate+Cloud+Engineer;Passionate+about+Building+Cloud-Native+Solutions;YouTube+channel:+Port+Eighty" alt="Typing SVG" />
+</div>
 
 <!-- Certifications Section -->
 ## 🏆 Certifications
 
-### AWS Certified Solutions Architect – Associate  
-![AWS Certified Badge](https://images.credly.com/size/240x240/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+### AWS Certified Solutions Architect – Associate &  GCP Certified Associate Cloud Engineer  
+ 
+[![AWS Certified Badge](https://images.credly.com/size/240x240/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/81c2929b-d84a-4fc2-b357-7450e67eeacb/public_url)
+[![GCP Certified Badge](https://images.credly.com/size/230x230/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://www.credly.com/badges/f6b6fe74-ada1-4cfa-a98c-2d84568a4e47/public_url)
+
+
+
 
 <!-- Animated Servers Showcase Section -->
 ## 🚀 Proficient in All Major Linux Distributions
@@ -32,8 +38,9 @@ I’m passionate about creating scalable solutions with cloud technologies and D
 - **Databases:** MySQL
 - **Web Technologies:** HTML, CSS
 - **Collaboration:** Git, GitHub
-- **Cloud Platforms:** AWS
+- **Cloud Platforms:** AWS ,GCP
 - **Scripting:** Bash, Shell scripting
+-  **Ticketing Tool:** ServiceNow, Jira
   
   <!-- logos -->
   ![Ansible Logo](https://img.icons8.com/?size=38&id=SJNUZD3A4el4&format=png)
