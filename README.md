@@ -2,7 +2,7 @@
 ## Hello there! 👋 I'm Aftab
 <!-- About Me Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mohammed+Aftab;Experienced+DevOps+and+Cloud+Engineer;AWS+Certified+Solutions+Architect+Associate;GCP+Certified+Associate+Cloud+Engineer;Passionate+about+Building+Cloud-Native+Solutions;YouTube+channel:+Port+Eighty" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mohammed+Aftab;Experienced+DevOps+and+Cloud+Engineer;AWS+Certified+Solutions+Architect+Associate;GCP+Certified+Associate+Cloud+Engineer;Oracle+Cloud+Infrastructure+Certified+DevOps+Professional;Passionate+about+Building+Cloud-Native+Solutions;YouTube+channel:+Port+Eighty" alt="Typing SVG" />
 </div>
 
 <!-- Certifications Section -->
